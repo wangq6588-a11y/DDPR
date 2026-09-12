@@ -6,9 +6,11 @@
 
 ## Visual Results
 
+Click an image to open its interactive, draggable comparison.
+
 | Input | DDPR |
 | --- | --- |
-| ![Input](docs/visual-results/0-1-input.jpg) | ![DDPR result](docs/visual-results/0-1-output.png) |
-| ![Input](docs/visual-results/33-input.jpg) | ![DDPR result](docs/visual-results/33-output.jpg) |
-| ![Input](docs/visual-results/58-input.jpg) | ![DDPR result](docs/visual-results/58-output.jpg) |
-| ![Input](docs/visual-results/167-input.jpeg) | ![DDPR result](docs/visual-results/167-output.jpeg) |
+| [![Input](docs/visual-results/0-1-input.jpg)](https://wangq6588-a11y.github.io/DDPR/?compare=0-1) | [![DDPR result](docs/visual-results/0-1-output.png)](https://wangq6588-a11y.github.io/DDPR/?compare=0-1) |
+| [![Input](docs/visual-results/33-input.jpg)](https://wangq6588-a11y.github.io/DDPR/?compare=33) | [![DDPR result](docs/visual-results/33-output.jpg)](https://wangq6588-a11y.github.io/DDPR/?compare=33) |
+| [![Input](docs/visual-results/58-input.jpg)](https://wangq6588-a11y.github.io/DDPR/?compare=58) | [![DDPR result](docs/visual-results/58-output.jpg)](https://wangq6588-a11y.github.io/DDPR/?compare=58) |
+| [![Input](docs/visual-results/167-input.jpeg)](https://wangq6588-a11y.github.io/DDPR/?compare=167) | [![DDPR result](docs/visual-results/167-output.jpeg)](https://wangq6588-a11y.github.io/DDPR/?compare=167) |
